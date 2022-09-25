@@ -1,0 +1,7 @@
+C:\Users\15037\Desktop\C#_Challenges\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.exe.config
+C:\Users\15037\Desktop\C#_Challenges\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.exe
+C:\Users\15037\Desktop\C#_Challenges\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\ConsoleApplicationAssignment.pdb
+C:\Users\15037\Desktop\C#_Challenges\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\15037\Desktop\C#_Challenges\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15037\Desktop\C#_Challenges\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.exe
+C:\Users\15037\Desktop\C#_Challenges\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\ConsoleApplicationAssignment.pdb
